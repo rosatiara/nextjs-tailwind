@@ -31,4 +31,4 @@ On your terminal, enter:
 Start the server using this command:
 `npm run dev`
 **or**
-`yarn dev**
+`yarn dev`
