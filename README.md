@@ -1,4 +1,6 @@
-# Next JS + Tailwind CSS Project Starter
+<div align="center">
+  <h1>Next.js + TailwindCSS Project Starter</h1>
+</div>
 
 # Features
 - Next.js 12
