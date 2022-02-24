@@ -2,14 +2,14 @@
   <h1>Next.js + TailwindCSS Project Starter</h1>
 </div>
 
-# Features
+## Features
 - Next.js 12
 - Tailwind CSS 3
 - Absolute Import & Path Alias
 - ESLint
 - Prettier
 
-# Getting Started
+## Getting Started
 ### 1. Clone this template by _**using one**_ of these three ways:
 ##### A. Using this template directly
 1. Click the green "Use this template" button on this template directory.
