@@ -14,7 +14,7 @@
 #### A. Using this template directly
 1. Click the green "Use this template" button on this template directory.
 ![use-this-template-button](misc/use-this-template.png)
-2. Configure your repository & jump to step 2
+2. Configure your repository & jump to [step 2](https://github.com/rosatiara/nextjs-tailwind#2-install-dependencies)
 ![use-this-template-button](misc/use-this-template-2.png)
 #### B. Using `create-next-app`
 Type or copy this command on your terminal:
