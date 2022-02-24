@@ -20,7 +20,6 @@ Type or copy this command on your terminal:
 npx create-next-app -e https://github.com/rosatiara/nextjs-tailwind your_project_name_here
 ```
 ##### C. Deploy to Vercel
-#
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Frosatiara%2Fnextjs-tailwind)
 ### 2. Install dependencies
 On your terminal, enter:
